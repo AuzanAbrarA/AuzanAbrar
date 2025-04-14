@@ -40,8 +40,7 @@
     <section id="media">
         <h2>Media</h2>
         <ul>
-            <li><a href="link/to/your/video">Video</a></li>
-            <li><a href="link/to/your/song">Lagu</a></li>
+            <li><a href="https://youtu.be/3X-S0HMrxAs?si=26gC3DOw7GNx1Bp6">Video</a></li>
         </ul>
     </section>
 
